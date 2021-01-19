@@ -10,7 +10,13 @@
       "id": 2,
       "text": "Meeting at School",
       "day": "Fed 6th at 1:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Finish Task Tracker Tutorial",
+      "day": "January 18th at 11:59pm",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
